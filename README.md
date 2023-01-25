@@ -4,6 +4,8 @@ Mini script to quickly add support for setting `you@yourdomain.com` as search al
 
 ![screenshot](screenshot.png)
 
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dvcrn/mastodon-alias-cloudflare)
+
 ## Config & Deploy
 
 Copy the content of index.js into a new Cloudflare worker or run `wrangler publish`
