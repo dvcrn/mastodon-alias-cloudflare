@@ -1,0 +1,8 @@
+name = "mastodon"
+main = "src/index.js"
+compatibility_date = "2023-01-25"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
