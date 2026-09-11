@@ -2,7 +2,7 @@
   "name": "mastodon-alias",
   "version": "0.0.0",
   "devDependencies": {
-    "wrangler": "2.8.1"
+    "wrangler": "4.131.0"
   },
   "private": true,
   "scripts": {
